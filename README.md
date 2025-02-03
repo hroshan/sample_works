@@ -1,5 +1,10 @@
-# sample_works
-A sample list of my work
+# Sample Works
+
+A list of my work in:
+- Python
+- R
+- Tableau
+- Life Cycle Assessment (LCA)
 
 Also, check my other repositories:
 - [Capstone project presentation for "IBM Data Science Professional Certificate"](https://github.com/hroshan/IBMDSPC)
