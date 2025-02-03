@@ -1,6 +1,6 @@
 # Sample Works
 
-A list of my work in:
+A sample list of my works in:
 - Python
 - R
 - Tableau
