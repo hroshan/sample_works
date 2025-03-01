@@ -3,7 +3,7 @@
 A sample list of my works in:
 - Python
 - R
-- [Tableau] (https://public.tableau.com/app/profile/hasan.roshan/viz/DatabelCostumersChurn/DATABELCUSTOMERSCHURNANALYSIS)
+- [Tableau](https://public.tableau.com/app/profile/hasan.roshan/viz/DatabelCostumersChurn/DATABELCUSTOMERSCHURNANALYSIS)
 - Life Cycle Assessment (LCA)
 
 Also, check my other repositories:
